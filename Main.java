@@ -4,7 +4,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         int  unusedId = 0;
-        int[] arr = {1,2,3,4}; // это просто для тестов и можно удалить и использовать свой массив
+        int[] arr = {1,2,3,4};   // test
 
         HashSet<Integer> unic = new HashSet<Integer>();
 
